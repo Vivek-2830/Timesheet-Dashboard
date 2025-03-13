@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "time-sheet-dashboard-client-side-solution",
+    "id": "4067d109-c2ad-4de1-9697-acb48d05cf2c",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "TimeSheet Dashboard description"
+      },
+      "longDescription": {
+        "default": "TimeSheet Dashboard description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "time-sheet-dashboard Feature",
+        "description": "The feature that activates elements of the time-sheet-dashboard solution.",
+        "id": "76899e01-7651-4580-b738-817b78dd5cbe",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/time-sheet-dashboard.sppkg"
+  }
+}

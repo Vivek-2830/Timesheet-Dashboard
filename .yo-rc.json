@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "time-sheet-dashboard",
+    "libraryId": "4067d109-c2ad-4de1-9697-acb48d05cf2c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "TimeSheet Dashboard",
+    "solutionShortDescription": "TimeSheet Dashboard description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
