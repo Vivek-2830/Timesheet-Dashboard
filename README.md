@@ -4,9 +4,9 @@
 
  ## To import the project and install dependencies, follow these steps:
  
-  git clone <repository-url>  # Clone the project (if using Git)
-  cd <project-folder>         # Navigate into the project directory
-  npm install                # Install dependencies
+  git clone <repository-url>  # Clone the project (if using Git) 
+  cd <project-folder>         # Navigate into the project directory 
+  npm install                # Install dependencies 
   npm start                  # Start the project (if applicable)
 
 
